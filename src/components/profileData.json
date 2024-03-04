@@ -1,0 +1,12 @@
+{
+    "name": "Dutt Patel",
+    "email": "itduttpatel@gmail.com",
+    "UUID": "KEshavG1",
+    "age": 32,
+    "city": "Mumbai",
+    "country": "India",
+    "occupation": "Software Engineer",
+    "interests": ["coding", "reading", "traveling"],
+    "is_verified": true
+  }
+  
